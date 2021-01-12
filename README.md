@@ -1,2 +1,2 @@
-# NAME: ณัฐวรรณ เรียบเรียง
+# NAME: NUTTAWAN REABREANG
 # STUDENT ID: 630612099
